@@ -1,4 +1,4 @@
-package service;
+package pro.Sky.Skyprocalculator.service;
 
 public interface CalculatorService {
     int sum(int num1, int num2);

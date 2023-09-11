@@ -1,4 +1,4 @@
-package service;
+package pro.Sky.Skyprocalculator.service;
 
 import org.springframework.stereotype.Service;
 
